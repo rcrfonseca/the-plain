@@ -1,21 +1,21 @@
 # Site Info
-title:              "The Plain"
-description:        "The Plain is a minimalist Jekyll theme, that's it. Can't say anymore..."
-google_verify:      epFgX0s_0RM3CdjwFcsewfXzPov2g8s9ZBOLyaIUH-o # Put your Google Verification here
-google_analytics:   UA-XXXXXXX-X # Put your Google Analytics code
+title:              "Raphael Fonseca"
+description:        "Curriculum, technology content and personal projects."
+google_verify:      t6Nn6xhdjcUkeCM47L5Wl9ZeKt3Zw4rpcn9Aj82SPII # Put your Google Verification here
+google_analytics:   UA-20974956-3 # Put your Google Analytics code
 
 # Author Info
 author_name:        "Raphael Fonseca" # Your name here
-author_email:       hnrird@gmail.com # Your email here
-author_gravatar:    2b38b1b0e7e08b69379bd61582adf0c8 # Your Gravatar md5 hash here for logo
-twitter_username:   HeiswayiNrird # Your Twitter username here
-github_username:    heiswayi # Your GitHub username here
+author_email:       raphael.fonseca@ufrj.br # Your email here
+author_gravatar:    b3aa8a716a9f5f719d7bf7e0169d3c95 # Your Gravatar md5 hash here for logo
+twitter_username:   raphaelfonseca # Your Twitter username here
+github_username:    rcrfonseca # Your GitHub username here
 
 # Site Settings
 url:                https://raphaelfonseca.tech # main url
 baseurl:            / # for gh-pages
 permalink:          /notes/:title # Post permalink
-timezone:           Asia/Kuala_Lumpur # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone:           America/Sao_Paulo # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 mathjax:            true  # enables support for mathjax - set to false to disable
 
 # Site Build
