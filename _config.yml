@@ -1,13 +1,13 @@
 # Site Info
 title:              "Raphael Fonseca"
 description:        "Curriculum, technology content and personal projects."
-google_verify:      t6Nn6xhdjcUkeCM47L5Wl9ZeKt3Zw4rpcn9Aj82SPII # Put your Google Verification here
-google_analytics:   UA-20974956-3 # Put your Google Analytics code
+google_verify:       # Put your Google Verification here
+google_analytics:    # Put your Google Analytics code
 
 # Author Info
 author_name:        "Raphael Fonseca" # Your name here
 author_email:       raphael.fonseca@ufrj.br # Your email here
-author_gravatar:    b3aa8a716a9f5f719d7bf7e0169d3c95 # Your Gravatar md5 hash here for logo
+author_gravatar:     # Your Gravatar md5 hash here for logo
 twitter_username:   raphaelfonseca # Your Twitter username here
 github_username:    rcrfonseca # Your GitHub username here
 
